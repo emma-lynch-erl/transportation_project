@@ -1,4 +1,4 @@
-# TDSP Project
+# Transportation Data Science Project
 
 ## Overview
 This is a guided project completed through the Northeast Big Data Innovation Hub (NEBDHub), National Student Data Corps (NSDC), and U.S. Department of Transportation Federal Highway Administration. Using Python and libraries like pandas, matplotlib, and seaborn, the analysis uncovers insights that can help inform better transportation planning and decision-making.
