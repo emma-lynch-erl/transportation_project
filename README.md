@@ -1,7 +1,7 @@
 # TDSP Project
 
 ## Overview
-This project analyzes transportation trends using data provided by the Department of Transportation. The goal was to identify patterns in traffic flow and transportation usage, and summarize key findings through visualizations.
+This is a guided project completed through the Northeast Big Data Innovation Hub (NEBDHub), National Student Data Corps (NSDC), and U.S. Department of Transportation Federal Highway Administration. Using Python and libraries like pandas, matplotlib, and seaborn, the analysis uncovers insights that can help inform better transportation planning and decision-making.
 
 ## Project Files
 - `tdsp_project.py` – The main Python script used to clean, analyze, and visualize the transportation data.
